@@ -1,0 +1,33 @@
+.box {
+  color: red;
+  text-align: center;
+}
+
+.loader {
+  display: none;
+}
+
+#video {
+  display: none;
+}
+
+#video-one {
+  display: none;
+}
+
+.card-body h1 {
+  font-size: 45px;
+  color: tomato;
+}
+
+.progress-bar {
+  width: 100%;
+}
+
+.progress-bar .bar {
+  width: 0%;
+  height: 10px;
+  background-color: tomato;
+  border-radius: 25px;
+  transition: 1.5s;
+}
